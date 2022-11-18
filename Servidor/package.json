@@ -1,0 +1,26 @@
+{
+  "name": "apiproductos",
+  "version": "1.0.0",
+  "description": "productos logistic",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "pro",
+    "janderson",
+    "adso"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "node-modules": "^1.0.1"
+  }
+}
